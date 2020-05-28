@@ -91,7 +91,7 @@ This modular deck is the original Keynote deck re-created using GitPitch while a
 
 - View the new GitPitch Modular Slide Deck Alternative Online:
     - [https://gitpitch.com/gitpitch/demo-jv?p=training](https://gitpitch.com/gitpitch/demo-jv?p=training)
-- View the new [GitPitch Modular Slide Deck Alternative Markdown](flexdeck/PITCHME.md)
+- View the new [GitPitch Modular Slide Deck Alternative Markdown](training/PITCHME.md)
 
 Whenever modular slide decks are not needed but you do want to use modular markdown you can simplify the directory structure for you deck by placing the markdown files for each topic in a single directory: 
 
