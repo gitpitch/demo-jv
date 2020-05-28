@@ -1,6 +1,6 @@
 # Apple Keynote Slide Deck re-created using GitPitch
 
-In this repository you will find a number of sample GitPitch slide decks. Each deck takes a different approach to re-creating the original [ElixirCodeBeam.key](ElixirCodeBeam.key) Apple Keynote presentation.
+In this repository you will find a number of sample GitPitch slide decks. Each deck takes a slightly different approach to re-creating the original [ElixirCodeBeam.key](ElixirCodeBeam.key) Apple Keynote presentation.
 
 1. [The new GitPitch Slide Deck mimicking the original Keynote Deck](#the-new-gitpitch-slide-deck-mimicking-the-original-keynote-deck)
 1. [The new GitPitch Modular Slide Deck](#the-new-gitpitch-modular-slide-deck)
