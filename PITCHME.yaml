@@ -1,0 +1,48 @@
+#
+# Theme Template (Customize Brand):
+# https://gitpitch.com/docs/themes/default
+#
+theme            : template
+theme-override   : assets/css/PITCHME.css
+theme-background : [ "#EFEFEF" ]
+theme-headline   : [ "YanoneKaffeesatz-Bold", "#1C1C1C", "none", "#1C1C1C", "100", "130", "15" ]
+theme-byline     : [ "YanoneKaffeesatz-Bold", "#272626", "none", "#333", "100", "120", "15" ]
+theme-text       : [ "YanoneKaffeesatz-Regular", "#272626", "none", "#333", "140", "110", "15" ]
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-code       : [ "Iosevka", "100", "120" ]
+highlight        : atom-one-light
+theme-controls   : [ "#C0C0C0" ]
+theme-margins    : [ "0", "15px" ]
+layout           : center-left
+logo             : assets/img/dashbit-logo.png
+
+#
+# Custon Fonts:
+# https://gitpitch.com/docs/themes/custom-fonts
+#
+custom-fonts : [
+  "assets/fonts/YanoneKaffeesatz-Bold.woff2",
+  "assets/fonts/YanoneKaffeesatz-Medium.woff2",
+  "assets/fonts/YanoneKaffeesatz-Regular.woff2"
+]
+
+#
+# Footnote Setting:
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote: " "
+
+#
+# Twitter Card Settings:
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "Elixir + Dashbit"
+description : "Latest news from the world of Exlir & Dashbit."
+# thumbnail : assets/img/thumbnail.png
+
+#
+# Published Setting
+# Doc: https://gitpitch.com/docs/settings/published
+#
+published : true
+
