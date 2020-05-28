@@ -10,15 +10,15 @@
 @josevalim / @elixirlang / @dashbit
 @snapend
 
----?include=flexdeck/topics/elixir-110.md
+---?include=training/topics/elixir-110.md
 
----?include=flexdeck/topics/elixir-111.md
+---?include=training/topics/elixir-111.md
 
----?include=flexdeck/topics/broadway-06.md
+---?include=training/topics/broadway-06.md
 
----?include=flexdeck/topics/ecto-34.md
+---?include=training/topics/ecto-34.md
 
----?include=flexdeck/topics/phoenix.md
+---?include=training/topics/phoenix.md
 
 ---
 

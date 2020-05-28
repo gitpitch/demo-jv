@@ -10,15 +10,15 @@
 @josevalim / @elixirlang / @dashbit
 @snapend
 
----?include=training/elixir-110/PITCHME.md
+---?include=talk/elixir-110/PITCHME.md
 
----?include=training/elixir-111/PITCHME.md
+---?include=talk/elixir-111/PITCHME.md
 
----?include=training/broadway-06/PITCHME.md
+---?include=talk/broadway-06/PITCHME.md
 
----?include=training/ecto-34/PITCHME.md
+---?include=talk/ecto-34/PITCHME.md
 
----?include=training/phoenix/PITCHME.md
+---?include=talk/phoenix/PITCHME.md
 
 ---
 
